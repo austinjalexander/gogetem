@@ -11,7 +11,7 @@ Example use:
 
 $ python gogetem.py boston 10 austinjalexander@gmail.com
 
-Where arg1 ("apple") is the search_keyword, arg2 (1000) is the number of images to request, and arg3 ("austinjalexander@gmail.com") is the email address to notify when the task has completed.
+Where arg1 (boston) is the search_keyword, arg2 (10) is the number of images to request, and arg3 (austinjalexander@gmail.com) is the email address to notify when the task has completed.
 '''
 
 # IMPORTS
