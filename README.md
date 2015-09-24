@@ -9,4 +9,6 @@ YDN has more visually-inviting documentation (at first glance at least), an inte
 
 Thus, since, as much as I could tell, I would simply be making use of Flickr's API via YDN's anyway (using YQL or REST queries such as: https://query.yahooapis.com/v1/public/yql?q=select%20*%20from%20flickr.photos.search%20where%20text%3D%22search_keyword%22%20and%20api_key%3D%22API_KEY%22&format=json&diagnostics=true&callback=), I decided simply to use Flickr's API directly. This decision may mean that I broke the rules. It was hard to tell. If so, please let me know. [N.B. There is a Python Flickr API (http://stuvel.eu/media/flickrapi-docs/documentation/1-intro.html), but I opted not to use it.]
 
-The Flickr docs for photo search may be seen here: https://www.flickr.com/services/api/flickr.photos.search.html. An interface for exploring the behavior of this API by querying it may be found here: https://www.flickr.com/services/api/explore/flickr.photos.search.
+The Flickr docs for photo search may be viewed here: https://www.flickr.com/services/api/flickr.photos.search.html. An interface for exploring the behavior of this API by querying it may be found here: https://www.flickr.com/services/api/explore/flickr.photos.search.
+
+
