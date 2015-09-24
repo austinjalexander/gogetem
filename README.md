@@ -15,5 +15,5 @@ The Flickr docs for photo search may be viewed here: https://www.flickr.com/serv
 
 For a Jupyter notebook with a finished example, see: https://github.com/austinjalexander/gogetem/blob/master/gogetem-ExampleRun.ipynb (if Github doesn't render the notebook on the first request, try refreshing the page).
 
-To use the command-line script, read the docstring in the relevant file: https://github.com/austinjalexander/gogetem/blob/master/gogetem.py.
+To use the command-line script, see the docstring in the relevant file: https://github.com/austinjalexander/gogetem/blob/master/gogetem.py.
 
