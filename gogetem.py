@@ -17,6 +17,7 @@ Where arg1 ("apple") is the search_keyword, arg2 (1000) is the number of images 
 # IMPORTS
 import sys
 import os
+import smtplib
 from time import time
 import requests
 import urllib
