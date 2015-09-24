@@ -11,4 +11,6 @@ Thus, since, as much as I could tell, I would simply be making use of Flickr's A
 
 The Flickr docs for photo search may be viewed here: https://www.flickr.com/services/api/flickr.photos.search.html. An interface for exploring the behavior of this API by querying it may be found here: https://www.flickr.com/services/api/explore/flickr.photos.search.
 
+---
 
+For a Jupyter notebook with a finished example, see: https://github.com/austinjalexander/gogetem/blob/master/gogetem-ExampleRun.ipynb (if Github doesn't render the notebook at first, try refreshing the page).
